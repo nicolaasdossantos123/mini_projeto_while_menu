@@ -1,7 +1,7 @@
 opcao = 1
 
 while opcao != 0:
-    print("\n====== MENU =====")
+    print("\n===== MENU =====")
     print("1 - Somar dois números")
     print("2 - Contar números positivos")
     print("3 - Contar números pares")
@@ -51,5 +51,6 @@ while opcao != 0:
     
 else:
     print("Opção inválida. Tente novamente.")
+
 
 
